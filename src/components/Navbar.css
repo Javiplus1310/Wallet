@@ -1,0 +1,25 @@
+.navbar-container {
+    background-color:black;
+    display: flex;
+    padding: 10px;
+}
+.navbar-sections {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+.logo{
+    height: 70px;
+}
+.link{
+    color: rgb(255, 189, 89);
+    text-decoration: none;
+}
+.link:hover{
+    color: white;
+}
+body{
+    background-color: rgb(50, 50, 50);
+    color: rgb(255, 189, 89);
+}

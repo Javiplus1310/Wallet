@@ -1,0 +1,25 @@
+.home-container {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: 2px solid rgb(255, 189, 89);
+    padding: 50px;
+    width: fit-content;
+    margin: auto;
+    margin-top: 100px;
+}
+.home-inputs {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.home-inputs input, button {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.billetera{
+    height: 100px;
+}
+p{
+    font-weight: bold;
+}
